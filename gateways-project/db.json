@@ -1,0 +1,122 @@
+{
+  "gateways": [
+    {
+      "name": "Mouse",
+      "serial_number": "123",
+      "ipv4_address": "127.0.0.1",
+      "id": 1
+    },
+    {
+      "name": "12",
+      "serial_number": "2",
+      "ipv4_address": "2",
+      "id": 2
+    },
+    {
+      "name": "123",
+      "serial_number": "123123",
+      "ipv4_address": "123.12.2.1",
+      "id": 3
+    }
+  ],
+  "peripherals": [
+    {
+      "vendor": "xd",
+      "date": "xd",
+      "status": "Online",
+      "gateways_id": 1,
+      "id": 1
+    },
+    {
+      "vendor": "xd1",
+      "date": "xd1",
+      "status": "Online",
+      "gateways_id": 1,
+      "id": 2
+    },
+    {
+      "vendor": "xd2",
+      "date": "xd2",
+      "status": "Offline",
+      "gateways_id": 1,
+      "id": 3
+    },
+    {
+      "vendor": "t",
+      "date": "2022-11-30T04:58:58.098Z",
+      "status": "Online",
+      "gateways_id": 1,
+      "id": 4
+    },
+    {
+      "vendor": "2",
+      "date": "2022-11-29T05:00:17.698Z",
+      "status": "Online",
+      "gateways_id": 1,
+      "id": 5
+    },
+    {
+      "vendor": "2",
+      "date": "2022-11-02T04:02:01.865Z",
+      "status": "Online",
+      "gateways_id": 1,
+      "id": 6
+    },
+    {
+      "vendor": "2",
+      "date": "2022-11-15T05:02:01.865Z",
+      "status": "Online",
+      "gateways_id": 1,
+      "id": 7
+    },
+    {
+      "vendor": "4",
+      "date": "2022-11-16T05:02:01.865Z",
+      "status": "Online",
+      "gateways_id": 1,
+      "id": 8
+    },
+    {
+      "vendor": "5",
+      "date": "2022-11-26T05:02:01.865Z",
+      "status": "Online",
+      "gateways_id": 1,
+      "id": 9
+    },
+    {
+      "vendor": "8",
+      "date": "2022-11-25T05:02:01.865Z",
+      "status": "Online",
+      "gateways_id": 1,
+      "id": 10
+    },
+    {
+      "vendor": "6",
+      "date": "2022-11-22T05:02:01.865Z",
+      "status": "Online",
+      "gateways_id": 2,
+      "id": 11
+    },
+    {
+      "vendor": "5",
+      "date": "2022-11-25T05:02:01.865Z",
+      "status": "Online",
+      "gateways_id": 2,
+      "id": 12
+    },
+    {
+      "vendor": "2",
+      "date": "2022-11-23T05:04:24.825Z",
+      "status": "Online",
+      "gateways_id": 2,
+      "id": 13
+    },
+    {
+      "vendor": "asd",
+      "date": "2022-11-18T05:07:05.970Z",
+      "status": "Online",
+      "gateways_id": 3,
+      "id": 14
+    }
+  ]
+}
